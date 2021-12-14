@@ -1,0 +1,42 @@
+{
+    "addToCart" : "Add to shopping bag",
+    "goToProduct": "Go To Product",
+    "recomendedTitle" : "Recommended for your",
+    "review" : "Review",
+    "colorOption" : "Color option",
+    "customerReview" : "Customer reviews",
+    "writeReview" : "Write a review",
+    "moreReview" : "Read more reviews",
+    "viewGuide" : "view site guide",
+    "shareTitle" : "Share",
+    "title" : "Title",
+    "nickname" : "Nickname",
+    "submitReview" : "Submit review" ,
+    "rate" : "Rate",
+    "upsellTitle": "You might also like",
+    "validate": {
+        "nickname": "Nickname is required",
+        "rating": "Rating is required",
+        "title": "Title is required",
+        "detail": "Detail is required",
+        "fieldRequired": "This field is required",
+        "maxCharacters": "Maximum $ characters"
+    },
+    "customizableOptions": {
+        "file": {
+            "extentionAccept": "Compatible file extensions to upload: ",
+            "maxImageWidth": "Maximum image width: ",
+            "maxImageHeight": "Maximum image height: "
+        }
+    },
+    "addRateSuccess": "Thanks for review this product",
+    "addRateFailed": "Upload your review is failed",
+    "successAddCart": "Item has been added into your bag",
+    "failedAddCart": "Failed on adding item into your bag",
+    "failedQtyZero": "Please add at least 1 product item",
+    "emptyProductSearchResult": "We can't find products matching the selection.",
+    "productNotAvailable": "We don’t support this product type yet",
+    "customizeAdd": "Customize and Add toCart",
+    "yourCustomization": "Your Customization",
+    "quantity": "Quantity"
+}

@@ -1,0 +1,154 @@
+{
+    "variant": "Variant",
+    "home": {
+        "logoName": "LOGO"
+    },
+    "product": {
+        "titleProduct": "Product Name",
+        "name": "Product"
+    },
+    "search": {
+        "title": "Search",
+        "mainTitle": "New in Collection",
+        "backTitle": "back in stock sale",
+        "location": "Search Location"
+    },
+    "button": {
+        "edit": "Edit",
+        "save": "Save",
+        "saved": "Saved",
+        "continueShopping": "Continue Shopping",
+        "cancel": "Cancel",
+        "yes": "Yes",
+        "checkout": "Checkout",
+        "change": "Change",
+        "login": "Login",
+        "register": "Register",
+        "send": "Submit",
+        "addAddress": "Add Address",
+        "loadMore": "Load more",
+        "clear": "Clear",
+        "verify": "Verify",
+        "shop": "SHOP NOW",
+        "sendOtp": "Send OTP",
+        "submit": "Submit",
+        "viewAll": "View All",
+        "close": "Close",
+        "goCheckout": "Go to checkout",
+        "viewandedit": "View and Edit",
+        "allowCookies": "Allow Cookies"
+    },
+    "cart": {
+        "myCart": "My Cart",
+        "cardTotal": "Cart Subtotal",
+        "deleteSuccess": "Delete cart item success",
+        "deleteFailed": "Delete cart item failed",
+        "updateSuccess": "Update cart item success",
+        "updateFailed": "Update cart item failed",
+        "emptyCart": "YOU HAVE NO ITEMS IN YOUR SHOPPING CART.",
+        "cartError": "Something error with your cart, please clear and try again"
+    },
+    "subtotal": "Subtotal",
+    "price": {
+        "asLowAs": "As low as"
+    },
+    "form": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "phoneNumber": "Phone Number",
+        "gender": "Gender",
+        "dob": "Date of Birth",
+        "confirm": "Confirm Password",
+        "currentPassword": "Current Password",
+        "state": "State/Province",
+        "region": "Region",
+        "city": "City",
+        "country": "Country",
+        "street": "Street Address",
+        "postal": "Postal Code",
+        "select": "Select One"
+    },
+    "title": {
+        "qty": "Quantity",
+        "color": "Color",
+        "size": "Size",
+        "shortFilter": "Sort & Filter",
+        "short": "Sort By",
+        "search": "Search ...",
+        "brand": "Brand",
+        "category": "Category",
+        "summary": "Summary",
+        "price": "Price",
+        "shortQty": "Qty",
+        "action": "Action",
+        "extraFee": "Extra Fee",
+        "relatedProduct": "Related products",
+        "sale": "Sale",
+        "new": "New",
+        "free": "Free"
+    },
+    "error": {
+        "notFound": "Data not found",
+        "fileReject": "Cannot upload, Files must be a type ",
+        "fetchError": "Connection Error. Please try again later."
+    },
+    "fileUpload": {
+        "reject": "Cannot upload, Files must be a type ",
+        "dragActive": "Drop the files here ...",
+        "dragNonActive": "Drag drop some files here, or click to select file"
+    },
+    "menu": {
+        "confirmpayment": "Confirm Payment",
+        "trackingorder": "Tracking Order",
+        "sign": "Sign",
+        "register": "Create Account",
+        "or": "or",
+        "notification": "Notification",
+        "myaccount": "My Account",
+        "mywishlist": "My Wishlist",
+        "signout": "Sign Out",
+        "currency": "Currency",
+        "loading": "Loading",
+        "changeto": "Change to",
+        "setting": "Setting"
+    },
+    "header": {
+        "welcome": "Welcome!",
+        "hi": "Hi, $!"
+    },
+    "message": {
+        "feedSuccess": "Product success added to wishlist",
+        "feedFailed": "Add to wishlist failed",
+        "restrictionCookies": "We use cookies to make your experience better. To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies. Learn more."
+    },
+    "newsletter": {
+        "title": "SIGN UP NEWSLETTER",
+        "placeholder": "Enter your email address",
+        "buttonLabel": "Subscribe",
+        "firstname": "Enter your firstname",
+        "lastname": "Enter your lastname"
+    },
+    "recentlyView": {
+        "title" : "Recently Viewed"
+    },
+    "productCompare": {
+        "title": "Product Compare",
+        "successCompare" : "Product added successfully",
+        "failedCompare" : "Product failed to add",
+        "existProduct" : "The product is already in the compare cart",
+        "emptyCompare": "Your compare list is empty",
+        "successRemove": "Product compare was deleted successfully",
+        "failedRemove": "Product compare failed to delete",
+        "label": {
+            "sku": "sku",
+            "description": "Description",
+            "shortDescription": "Short Description",
+            "brand": "Brand"
+        }
+    },
+    "twitter": {
+        "follow": "Follow",
+        "tweetTo": "Tweet to",
+        "tweetBy": "Tweet by"
+    },
+}

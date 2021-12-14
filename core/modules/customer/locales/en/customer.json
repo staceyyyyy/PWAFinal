@@ -1,0 +1,120 @@
+{
+  "dashboard": {
+    "pageTitle": "Customer dashboard"
+  },
+  "newPassword": {
+    "title": "Change new password",
+    "success": "Password has been update successfully",
+    "failed": "Failed on updating password"
+  },
+  "button": {
+    "logout": "Sign out"
+  },
+  "setting": {
+    "title": "Settings",
+    "newsletter": "Newsletter",
+    "newsletter_subscription": "Newsletter subscriptions",
+    "newsletter_success": "Newsletter has been update successfully",
+    "newsletter_error": "Failed on updating newsletter",
+    "language": "Language",
+    "currency": "Currency"
+  },
+  "profile" : {
+      "title" : "My account",
+      "successUpdate": "Profile has been updated",
+      "successChangePass": "Password has been updated"
+  },
+  "address" : {
+    "pageTitle" : "Address book",
+    "addTitle" : "Add new address",
+    "editTitle" : "Edit",
+    "removeTitle": "Remove",
+    "defaultBilling": "Default billing address",
+    "defaultShiping": "Default shiping address",
+    "useBilling" : "Use as my default billing address",
+    "useShipping" : "Use as my default shipping address",
+    "firstname" : "First name",
+    "lastname" : "Last name",
+    "street" : "Address",
+    "city" : "City",
+    "country" : "Country",
+    "state" : "State",
+    "postcode" : "Zip/Postal code",
+    "phone" : "Phone number",
+    "emptyMessage" : "You haven't added an address",
+    "useDefault" : "Use as default",
+    "warningDelete": "Are you sure to remove this address?"
+  },
+  "menu": {
+    "aboutUs": "About us",
+    "contactUs": "Contact us",
+    "myPoint": "My point",
+    "myOrder": "My order",
+    "myAccount": "My account",
+    "address": "Address book",
+    "findAStore": "Find a Store",
+    "setting": "Settings",
+    "storeCredit": "Store credit",
+    "readMore": "Read more",
+    "rewardPoint": "Reward points",
+    "blog": "Blog",
+    "return": "My returns",
+    "confirmPayment": "Confirm payment",
+    "accountInformation": "Account information",
+    "notification": "Notifications",
+    "viewall" : "View all",
+    "trackingOrder": "Tracking Order",
+    "myDownload": "My Downloadable Products"
+  },
+  "giftCard": {
+    "notFound": "You don't have gift card item",
+    "inputSearch": "Enter gift card code",
+    "buttonSearch": "Check status & balance",
+    "required": "Code is required"
+  },
+  "haveAccount": "If you have an account",
+  "notHaveAccount": "Don't have an account?",
+  "isWhatsapp": "Phone number is registered in whatsapp",
+  "wishlist": {
+    "pageTitle": "Wishlist",
+    "title" : "Wishlist",
+    "removeSuccess": "Item has been removed from wishlist",
+    "removeFailed": "Failed on removing item from wishlist",
+    "addToBag": "add to bag",
+    "addAllToBag": "add all to bag",
+    "addSuccess": "Item has been added into your wishlist",
+    "addFailed": "Failed on adding item into wishlist",
+    "notFound": "You have no items in your wishlist",
+    "warningDelete": "Are you sure to remove this item from wishlist?",
+    "addAllToBagSuccess": "All items in wishlist have been added into your bag",
+    "addPartToBagSuccess": "$ items in wishlist have been added to your bag",
+    "failedAddToBagOption" : "Please select option for some products",
+    "successAddCart": "Item has been added into your bag",
+    "failedAddCart": "Failed on adding item into your bag",
+    "addWithoutLogin": "Please login to add this item to your wishlist",
+    "product": "Product",
+    "comment": "Comment",
+    "addToCart": "Add to cart",
+    "action": "Action",
+    "addToWishlist": "Add To Wishlist",
+    "wishlistSharing": "Wish list sharing",
+    "sharingInformation": "Sharing Information",
+    "shareWishlist": "Share wish list",
+    "labelEmail": "Email addresses, separated by commas",
+    "message": "Message",
+    "validateField": "Please fill in the fields correctly!",
+    "shareSuccess" : "Item has been shared successfully",
+    "shareFailed": "Failed on sharing item"
+  },
+  "order": {
+    "recentOrder" : "Recent order",
+    "order" : "Order",
+    "date": "Date",
+    "shippedTo": "Shipped to",
+    "orderTotal": "Order total",
+    "status": "Status",
+    "action": "Action"
+  },
+  "notHaveNotification" : "You don't have notification yet",
+  "notHaveOrder" : "Empty order history"
+}

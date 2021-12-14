@@ -1,0 +1,17 @@
+{
+    "title": "Success",
+    "thanks" : "Thank you!",
+    "forOrder" : "for your order",
+    "thanksDetail" : "We'll send you a confirmation email with details & tracking info.",
+    "continue" : "Continue Shopping",
+    "yourOrderId": "Your order number",
+    "checkOrder": "Check Order",
+    "placeInfo": "Your order has been placed",
+    "amount": "Total amount",
+    "bankInfo": "For $ you will receive an email of order confirmation with tracking number.",
+    "bankInfo2": "Please upload your proof of payment before ",
+    "paymentConfirmation": "Payment Confirmation",
+    "bankNumber": "Bank Number",
+    "registerInfo": "You can track your order status by creating an account.",
+    "emailInfo": "Email address:"
+}

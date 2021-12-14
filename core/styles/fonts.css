@@ -1,0 +1,54 @@
+/* montserrat-regular - vietnamese_latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('../theme/fonts/montserrat-v18-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2') format('woff2');
+}
+/* montserrat-500 - vietnamese_latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local(''),
+       url('../theme/fonts/montserrat-v18-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-500.woff2') format('woff2');
+}
+/* montserrat-500italic - vietnamese_latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: local(''),
+       url('../theme/fonts/montserrat-v18-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-500italic.woff2') format('woff2');
+}
+/* montserrat-600 - vietnamese_latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local(''),
+       url('../theme/fonts/montserrat-v18-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-600.woff2') format('woff2');
+}
+/* montserrat-700 - vietnamese_latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('../theme/fonts/montserrat-v18-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-700.woff2') format('woff2');
+}
+/* montserrat-900 - vietnamese_latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local(''),
+       url('../theme/fonts/montserrat-v18-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-900.woff2') format('woff2');
+}

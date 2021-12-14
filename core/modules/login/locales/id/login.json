@@ -1,0 +1,16 @@
+{
+    "haveAccount": "Jika sudah punya akun",
+    "pageTitle": "Masuk",
+    "forgotPassword": "Lupa password",
+    "notHaveAccount": "Belum mempunyai akun ?",
+    "switchPhone": "Login dengan nomor telepon",
+    "success": "Masuk berhasil",
+    "failed": "Masuk gagal",
+    "registerTitle" : "Daftar",
+    "customerLogin": "Login pelanggan",
+    "registerCustomer": "Pelanggan terdaftar",
+    "newCustomer": "Pelanggan baru",
+    "loginInformation": "Jika kamu sudah mempunyai akun, silahkan masuk dengan email atau nomor telepon.",
+    "loginOtpInformation": " Jika kamu mempunyai akun terdaftar dengan nomor telepon, masuk dengan nomor telepon.",
+    "registerInformation": "Membuat akun akan mendapatkan benefit : checkout dengan cepat, simpan lebih dari satu alamat pengiriman, lacak pembelian and masih banyak lagi."
+}

@@ -1,0 +1,120 @@
+{
+  "dashboard": {
+    "pageTitle": "Beranda Pelanggan"
+  },
+  "newPassword": {
+    "title": "Ubah password",
+    "success": "Password berhasil diperbarui",
+    "failed": "Password gagal diperbarui"
+  },
+  "button": {
+    "logout": "Keluar"
+  },
+  "setting" : {
+    "title" : "Pengaturan",
+    "newsletter" : "Buletin",
+    "newsletter_subscription": "Newsletter subscriptions",
+    "newsletter_success": "Buletin berhasil diperbarui",
+    "newsletter_error": "Buletin gagal diperbarui",
+    "language" : "Bahasa",
+    "currency": "Mata Uang"
+  },
+  "profile" : {
+    "title" : "Akun saya",
+    "successUpdate": "Profil berhasil diperbarui",
+    "successChangePass": "Password berhasil diperbarui"
+  },
+  "address" : {
+    "pageTitle" : "Daftar alamat",
+    "addTitle" : "Tambah alamat baru",
+    "editTitle" : "Ubah",
+    "removeTitle": "Hapus",
+    "defaultBilling": "Alamat pembayaran default ",
+    "defaultShiping": "Alamat pengiriman default",
+    "useBilling" : "Gunakan sebagai alamat default pembayaran",
+    "useShipping" : "Gunakan sebagai alamat default pengiriman",
+    "firstname" : "Nama depan",
+    "lastname" : "Nama akhir",
+    "street" : "Alamat",
+    "city" : "Kota/Kecamatan",
+    "country" : "Negara",
+    "state" : "Provinsi",
+    "postcode" : "Kode pos",
+    "phone" : "Telepon",
+    "emptyMessage" : "Kamu belum menambahkan alamat",
+    "useDefault" : "Gunakan sebagai default",
+    "warningDelete": "Anda yakin mau menghapus alamat ini?"
+  },
+  "menu": {
+    "aboutUs": "Tentang kami",
+    "contactUs": "Hubungi kami",
+    "myPoint": "Point saya",
+    "myOrder": "Pesanan saya",
+    "myAccount": "Akun saya",
+    "address": "Buku alamat",
+    "findAStore": "Lihat lokasi store",
+    "setting": "Pengaturan",
+    "storeCredit": "Store credit",
+    "readMore": "Selengkapnya",
+    "rewardPoint": "Reward poin",
+    "blog": "Artikel",
+    "return": "Retur saya",
+    "confirmPayment": "Konfirmasi pembayaran",
+    "accountInformation": "Informasi akun",
+    "notification": "Notifikasi",
+    "viewall" : "Lihat semua",
+    "trackingOrder": "Lacak Pesanan",
+    "myDownload": "Produk Unduh saya"
+  },
+  "giftCard": {
+    "notFound": "Anda tidak memiliki gift card",
+    "inputSearch": "Masukan kode gift card",
+    "buttonSearch": "Cek sisa dan status",
+    "required": "Code tidak boleh kosong"
+  },
+  "haveAccount": "Jika sudah punya akun",
+  "notHaveAccount": "Belum mempunyai akun ?",
+  "isWhatsapp": "Nomor telephone telah terdaftar di whatsapp",
+  "wishlist": {
+    "pageTitle": "Wishlist",
+    "title": "Wishlist",
+    "removeSucess": "Produk berhasil dihapus dari wishlist",
+    "removeFailed": "Produk gagal dihapus dari wishlist",
+    "addSuccess": "Produk berhasil ditambahkan ke wishlist",
+    "addFailed": "Produk gagal ditambahkan ke wishlist",
+    "addToBag": "Tambah ke keranjang",
+    "addAllToBag": "Tambah semua ke keranjang",
+    "notFound": "Kamu tidak memiliki produk di wishlist",
+    "warningDelete": "Anda yakin mau menghapus produk ini dari wishlist?",
+    "addAllToBagSuccess": "Semua produk di wishlist berhasil ditambahkan ke keranjang",
+    "addPartToBagSuccess": "$ produk berhasil ditambahkan ke keranjang",
+    "failedAddToBagOption": "Silahkan pilih opsi terlebih dahulu untuk beberapa produk",
+    "successAddCart": "Produk berhasil ditambahkan ke keranjang",
+    "failedAddCart": "Produk gagal ditambahkan ke keranjang",
+    "addWithoutLogin": "Silahkan masuk untuk menambahkan produk ini ke wishlist",
+    "product": "Produk",
+    "comment": "Komentar",
+    "addToCart": "Tambahkan ke keranjang",
+    "action": "Aksi",
+    "addToWishlist": "Tambahkan ke Daftar Keinginan",
+    "wishlistSharing": "Berbagi daftar keinginan",
+    "sharingInformation": "Berbagi Informasi",
+    "shareWishlist": "Bagikan daftar keinginan",
+    "labelEmail": "Alamat email, dipisahkan dengan koma",
+    "message": "Pesan",
+    "validateField": "Harap isi kolom dengan benar!",
+    "shareSuccess" : "Item telah berhasil dibagikan",
+    "shareFailed": "Gagal membagikan item" 
+  },
+  "order": {
+    "recentOrder" : "Order terbaru",
+    "order" : "Order",
+    "date": "Tanggal",
+    "shippedTo": "Pengiriman",
+    "orderTotal": "Total order",
+    "status": "Status",
+    "action": "Aksi"
+  },
+  "notHaveNotification" : "Anda belum mempunyai notifikasi",
+  "notHaveOrder" : "Riwayat transaksi kosong"
+}

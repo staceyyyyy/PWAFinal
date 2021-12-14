@@ -1,0 +1,179 @@
+{
+    "variant": "Varian",
+    "home": {
+        "logoName": "LOGO"
+    },
+    "product": {
+        "title_product": "Nama Produk",
+        "name": "Produk"
+    },
+    "search": {
+        "title": "Cari",
+        "mainTitle": "Koleksi terbaru",
+        "backTitle": "kembali ke produk",
+        "location": "Cari Lokasi"
+    },
+    "button": {
+        "edit": "Edit",
+        "save": "Simpan",
+        "saved": "Tersimpan",
+        "continueShopping": "Lanjut Berbelanja",
+        "cancel": "Batal",
+        "yes": "Ya",
+        "checkout": "Checkout",
+        "change": "Ubah",
+        "send": "kirim",
+        "manage": "Manage",
+        "addAddress": "Tambah Alamat",
+        "loadMore": "Lihat lagi",
+        "clear": "Bersihkan",
+        "verify": "Verifikasi",
+        "shop": "Beli Sekarang",
+        "sendOtp": "Kirim OTP",
+        "submit": "Kirimkan",
+        "viewAll": "Lihat Semua",
+        "goCheckout": "Checkout",
+        "viewandedit": "Lihat dan Ubah",
+        "addToCart": "Tambah ke Keranjang",
+        "allowCookies": "Ijinkan Cookie",        
+        "simulateQrCode": "Sumulasi Pembayaran Qrcode"
+    },
+    "cart" : {
+        "myCart": "Cart Saya",
+        "cardTotal": "Cart Subtotal",
+        "deleteSuccess": "Hapus item cart berhasil",
+        "deleteFailed": "Hapus item cart gagal",
+        "updateSuccess": "Update item cart berhasil",
+        "updateFailed": "Update item cart gagal",
+        "emptyCart": "ANDA TIDAK MEMILIKI ITEM DI KERANJANG BELANJA ANDA.",
+        "oos": "Stok habis",
+        "cartError": "Ada kesalahan di keranjang anda, silahkan bersihkan dan ulangi kembali"
+    },
+    "subtotal": "Subtotal",
+    "price": {
+        "asLowAs": "Termurah"
+    },
+    "qty": "Jumlah",
+    "form": {
+        "firstName": "Nama Depan",
+        "lastName": "Nama Belakang",
+        "phoneNumber": "Nomor Telepon",
+        "gender": "Jenis Kelamin",
+        "dob": "Tanggal Lahir",
+        "confirm": "Konfirmasi Password",
+        "currentPasword": "Password Lama",
+        "state": "Bagian / Provinsi",
+        "region": "Negara",
+        "city": "Kota",
+        "country": "Negara",
+        "street": "Alamat Jalan",
+        "postal": "Kode Pos",
+        "select": "Pilih Salah Satu"
+    },
+    "title": {
+        "qty": "Jumlah",
+        "color": "Warna",
+        "size": "Ukuran",
+        "shortFilter": "Urutan & Filter",
+        "short": "Urutkan dari",
+        "search": "Pencarian ...",
+        "brand": "Brand",
+        "category": "Kategory",
+        "summary": "Ringkasan",
+        "price": "Harga",
+        "shortQty": "Jml",
+        "action": "Aksi",
+        "extraFee": "Biaya Tambahan",
+        "relatedProduct": "Relasi Produk",
+        "sale": "Diskon",
+        "new": "Baru",
+        "free": "Free",
+        "none": "Tidak ada"
+    },
+    "error": {
+        "notFound" : "Data tidak di temukan",
+        "fileReject": "Tidak dapat mengupload file harus ber type ",
+        "fetchError": "Terjadi kesalahan. Silakan coba lagi nanti",
+        "browser": "Browser tidak didukung",
+        "videoNotSupported": "Browser anda tidak mendukung elemen video."
+    },
+    "fileUpload": {
+        "reject": "Tidak dapat mengupload, file harus ber type  ",
+        "dragActive": "Taruh file kesini ...",
+        "dragNonActive": "Tarik dan taruh file kesini, atau klik untuk pilih file",
+        "maxSizeImage": "Maksimal ukuran gambar "
+    },
+    "menu" : {
+        "confirmpayment" : "Konfirmasi Pembayaran",
+        "trackingorder" : "Lacak Pesanan",
+        "sign" : "Masuk",
+        "register" : "Buat Akun",
+        "or" : "Atau",
+        "notification": "Notifikasi",
+        "myaccount": "Akun Saya",
+        "mywishlist": "Daftar Saya",
+        "signout": "keluar",
+        "loading": "Menunggu"
+    },
+    "header": {
+        "welcome": "Selamat Datang!",
+        "hi": "Hai, $!"
+    },
+    "message": {
+        "feedSuccess": "Produk berhasil di tambahkan ke wishlist",
+        "feedFailed": "Tambah wishlist gagal",
+        "browserError": "Silahkan ganti browser atau cek setingan cookies, javascript atau lainnya",
+        "restrictionCookies": "Kami menggunakan cookie untuk membuat pengalaman Anda lebih baik. Untuk mematuhi arahan e-Privacy yang baru, kami perlu meminta persetujuan Anda untuk menyetel cookie. Pelajari lebih lanjut."
+    },
+    "newsletter": {
+        "title": "DAFTAR NEWSLETTER",
+        "placeholder": "Masukkan alamat email Anda",
+        "buttonLabel": "Langganan",
+        "emailFormat": "Format email salah",
+        "emptyValue": "Harap masukkan alamat email",
+        "firstname": "Masukkan nama depan anda",
+        "lastname": "Masukkan nama belakang anda"
+    },
+    "setting": {
+        "title": "Pengaturan",
+        "language": "Bahasa",
+        "currency": "Mata Uang",
+        "changeto": "Ganti ke"
+    },
+    "recentlyView": {
+        "title" : "Baru Saja Dilihat"
+    },
+    "instagramFeed": {
+        "shareFb": "Bagikan ke facebook",
+        "tweet": "Tweet",
+        "pinit": "Sematkan",
+        "downloadImage": "Unduh gambar"
+    },
+    "productCompare": {
+        "title": "Product Compare",
+        "successCompare" : "Produk berhasil di tambahkan",
+        "failedCompare" : "Produk gagal ditambahkan",
+        "existProduct" : "Produk sudah ada di keranjang compare",
+        "emptyCompare" : "Daftar perbandingan Anda kosong",
+        "successRemove": "Product compare berhasil dihapus",
+        "failedRemove": "Product compare gagal dihapus",        
+        "label": {
+            "sku": "sku",
+            "description": "Deskripsi",
+            "shortDescription": "Deskripsi Singkat",
+            "brand": "Merek"
+        }
+    },
+    "twitter": {
+        "follow": "Ikuti",
+        "tweetTo": "Tweet ke",
+        "tweetBy": "Tweet oleh"
+    },
+    "summary": {
+        "title": "Ringkasan",
+        "tax": "Pajak",
+        "storeCredit": "Kredit toko",
+        "rewardPoint": "Poin reward",
+        "giftCard": "Gift card (hadiah)"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "pageTitle": "Checkout",
+    "shippingAddress" : "Shipping address",
+    "billingAddress": "Billing address",
+    "address": {
+        "addTitle": "New address",
+        "invalidAddress": "Your address city is invalid, please change or create new address"
+    },
+    "deliveryMethod" : {
+        "label": "Delivery method",
+        "homeDelivery": "Home delivery",
+        "homeDeliveryDesc": "We deliver your order to your home",
+        "pickupDelivery": "Pickup",
+        "pickupDeliveryDesc": "Pickup your order at our store",
+        "instorePickup": "Instore Pickup",
+        "instorePickupDesc": "Pickup your order at our store"
+    },
+    "pickupInformation": {
+        "label": "Pickup information",
+        "pickupPerson": "Pickup person",
+        "pickupAtLabel": "You will pick up your order at",
+        "pickupNote": "We will send you an email when your order is ready (within 2 hours for order placed by 7pm local time). Note: Bring valid goverment ID such as driver license or password",
+        "changePickupInformation": "Change pickup information",
+        "changePickupLocation": "Change pickup location",
+        "selectStoreLocation": "Select store location"
+    },
+    "purchaseOrderNumber": "Purchase Order Number",
+    "pickupStore": "Pickup at store",
+    "instorePickup": "Instore Pickup",
+    "shippingMethod" : "shipping method",
+    "payment" : "payment",
+    "paymentMethod": "payment method",
+    "placeOrder" : "Place order",
+    "paymentSubtitle" : "Select your payment method",
+    "emailAddress": "Email address",
+    "emailHelper": "We'll send your order confirmation here.",
+    "haveAccount": "Already have an account? Login Here",
+    "noPayment": "There is no payment method available. Please set address and shipping method.",
+    "noPaymentPickup": "There is no payment method available. Please complete pickup store information",
+    "noNeedPayment": "There is no need to pay on this order",
+    "noShipping": "There is no delivery method available for selected address",
+    "completePikcupInfo": "Please compleate pickup information & select store pickup",
+    "storesNotFound": "No Stores avaliable",
+    "message": {
+        "unsavedEmail": "Email is not yet saved",
+        "problemConnection": "There is a problem with your connection",
+        "emptyShippingError": "Please set address and select shipping method steps first",
+        "couponRemoved": "Coupon has been removed",
+        "couponApplied": "Coupon has been applied",
+        "orderCommentAdded": "Order Comment has been added",
+        "orderCommentRemoved": "Order Comment has been removed",
+        "giftCardApplied": "Coupon has been applied",
+        "giftCardRemoved": "Coupon has been removed",
+        "rewardPointsApplied": "Reward points has been applied",
+        "rewardPointsRemoved": "Reward points has been removed",
+        "storeCreditApplied": "Store credit has been applied",
+        "storeCreditRemoved": "Store credit has been removed",
+        "purchaseOrderApplied": "Purchase order number has been applied",
+        "couponError": "The coupon code isn't valid. Verify the code and try again.",
+        "giftCardError": "The gift card code isn't valid. Verify the code and try again.",
+        "placeOrder": "Your order has been placed",
+        "serverError": "There is a problem on the server or your connection, try again later",
+        "guestFormValidation": "Please provide email information, address, select shipping, and payment before place order.",
+        "customerFormValidation": "Please select addresss, shipping, and payment before place order.",
+        "address": {
+            "add": "Please add shipping address",
+            "default": "No Default Address"
+        },
+        "addFreeItemPromoSuccess": "Free item success add to cart",
+        "addFreeItemPromoFailed": "Free item failed add to cart",
+        "freeItemFull": "The selected item have reached maximum quantity."
+    },
+    "checkBalance": "Check balance",
+    "myPoint": {
+        "title": "My points",
+        "button": "Use my points",
+        "removeButton": "Remove my points",
+        "used": "Used",
+        "rewardPoints": "Reward points"
+    },
+    "myCredit": {
+        "title": "My Credit",
+        "used": "Used Credit",
+        "button": "Use my credit",
+        "removeButton": "Remove my credit"
+    },
+    "promoCodePlaceholder": "Promo code",
+    "giftCartPlaceholder": "Gift cart number",
+    "yourOrderId": "Your order number",
+    "checkOrder": "Check Order",
+    "cashbackInfo": "Congratulation! You will get cashback $ from promo(s) $ into your store credit",
+    "paymentGrouping": {
+        "banktransfer": "Bank transfer",
+        "creditcard": "Credit card",
+        "internetpayment": "Internet payment",
+        "onlinepayment": "Online payment",
+        "installment": "Installment",
+        "others": "Others"
+    },
+    "shippingGrouping": {
+        "freeshipping": "Free shipping",
+        "express": "Express",
+        "sameday": "Same Day",
+        "reguler": "Reguler",
+        "trucking": "Trucking",
+        "international": "International",
+        "instant": "Instant",
+        "others": "Others"
+    },
+    "error": {
+        "title": "Something went wrong.",
+        "message": "There was a slight problem with your request, please try again or go back to store",
+        "try": "Retry",
+        "backToStore": "Back to store"
+    },
+    "cartError": "Something went wrong during fetching the cart data",
+    "feePromoLabel" :"Fee & promotion",
+    "buttonOk": "Ok",
+    "howtoPay": "How to pay",
+    "paypal": {
+        "reviewPage": "Review order",
+        "itemsCart": "Items in your shopping cart ",
+        "editCart": "Edit shopping cart",
+        "usePromo": "Use promo code",
+        "label": "PayPal express checkout",
+        "noShippingMethod": "Please select a shipping method"
+    }
+}

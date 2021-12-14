@@ -1,0 +1,9 @@
+{
+    "menu" : {
+        "confirmpayment" : "Konfirmasi Pembayaran",
+        "trackingorder" : "Lacak Pesanan",
+        "sign" : "Masuk",
+        "register" : "Buat Akun",
+        "or" : "Atau"
+    }
+}

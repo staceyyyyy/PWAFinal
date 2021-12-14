@@ -1,0 +1,60 @@
+{
+    "title" : "Pesanan saya",
+    "order" : "Pesanan",
+    "notFound": "Pesanan tidak di ketahui",
+    "shippedTo": "Dikirim ke",
+    "pickupAt": "Ambil di",
+    "pickupBy": "Diambil oleh",
+    "shippingMethod": "Metode pengiriman",
+    "paymentMethod": "Metode pembayaran",
+    "shipping": "Pengiriman & Perawatan",
+    "discount": "Potongan",
+    "date": "Tanggal",
+    "remaining": "Sisa Unduh",
+    "totalItems": "Total item",
+    "paymentDate": "Tanggal pembayaran",
+    "virtualAccount": "",
+    "credit": "Store Credit",
+    "giftcard": "Gift card",
+    "reorder": "Order lagi",
+    "return": "Permintaan pengembalian",
+    "print": "Cetak",
+    "newReturn": "Pengembalian baru untuk order  ",
+    "productReturn": "Produk untuk di kembalikan",
+    "selectAll": "Pilih semua",
+    "deselectAll" : "Hapus semua",
+    "formReturn": {
+        "submit": "Kirim Permintaan",
+        "label": {
+            "resolution": "Solusi",
+            "condition" : "Kondisi",
+            "message": "Pesan",
+            "tickSelect": "Centang untuk memilih",
+            "reason": "Alasan"
+        },
+        "placeholder": {
+            "message": "Tulis pesan disini untuk manager",
+            "uploadFile": "Type file yang di bolehkan : zip, rar, jpg, jpeg, png, gif, pdf, doc, docx, xls, xlsx"
+        }
+    },
+    "trackingOrder": "Lacak pesanan",
+    "orderId": "Nomor pesanan",
+    "trackingInformation": "Informasi pesanan",
+    "orderStatus": "Status pesanan",
+    "status": "Status",
+    "action": "Aksi",
+    "orderTotal": "Total pesanan",
+    "orderNotFound": "Maaf, nomor pesanan tidak ditemukan",
+    "smReturn": "Kembalikan",
+    "view": "Lihat pesanan",
+    "billingAddress": "Alamat penagihan",
+    "orderInfo": "Informasi pemesanan",
+    "orderItem": "Semua item pemesanan",
+    "labelStatus": {
+        "pending": "Menunggu konfirmasi",
+        "processing": "Sedang di proses",
+        "shipping": "Sedang di kirim",
+        "complete": "Pesanan selesai",
+        "canceled": "Pesanan di batalkan"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Blog",
+    "error": {
+        "notFound" : "Kontent data tidak di temukan",
+        "fetch": "Kesalahan saat mengambil data atau koneksi, coba lagi nanti"
+    },
+    "loadMore": "Muat lainnya",
+    "category": "Kategori",
+    "readMore": "Baca selengkapnya",
+    "share": "Bagikan",
+    "relatedProducts": "produk terkait"
+}

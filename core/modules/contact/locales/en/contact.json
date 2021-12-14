@@ -1,0 +1,10 @@
+{
+    "pageTitle": "Contact",
+    "contactUs": "Contact Us",
+    "fullName": "Full name",
+    "email": "Email",
+    "message": "Message",
+    "telephone": "Telephone",
+    "successSubmit": "Sucess submit message",
+    "failedSubmit": "Failed submit message, please check your input or connection"
+}

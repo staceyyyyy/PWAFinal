@@ -1,0 +1,23 @@
+{   
+    "email": "Email",
+    "shippedTo": "Shipped to",
+    "shippingMethod": "Shipping method",
+    "paymentMethod": "Payment method",
+    "shipping": "Shipping & Handling",
+    "trackingOrder": "Track order",
+    "orderId": "Order number",
+    "trackingInformation": "Tracking information",
+    "orderStatus": "Order status",
+    "status": "Status",
+    "orderTotal": "Order total",
+    "orderNotFound": "Sorry, order number is not valid",
+    "name": "Name",
+    "description": "Description",
+    "updateDate": "Update date",
+    "receiverName": "Receiver Name",
+    "shipperName": "Shipper Name",
+    "lastStatus": "Last Status",
+    "history": "History",
+    "liveTracking": "Live Tracking",
+    "track": "Track"
+}

@@ -1,0 +1,14 @@
+version: '3'
+services:
+    frontend_local:
+        build:
+            context: ./ /../../../
+            dockerfile: ./docker/local/Dockerfile
+        environment:
+            - PORT=3000
+            - NODE_ENV=development
+            - APP_ENV=local
+        ports:
+            - 3000:3000
+        volumes:
+            - ./../../:/usr/src/app

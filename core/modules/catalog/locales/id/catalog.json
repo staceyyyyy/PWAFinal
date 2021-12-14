@@ -1,0 +1,24 @@
+{
+    "emptyProductSearchResult": "Kami tidak dapat menemukan produk yang sesuai dengan pilihan.",
+    "title": {
+        "color": "Warna",
+        "size": "Ukuran",
+        "shortFilter": "Urutan & Filter",
+        "short": "Urutkan dari",
+        "search": "Pencarian ...",
+        "brand": "Brand",
+        "category": "Kategory",
+        "searchResult": "Hasil pencarian"
+    },
+    "button": {
+        "save": "Simpan",
+        "clear": "Bersihkan"
+    },
+    "product": {
+        "title_product": "Nama produk",
+        "name": "Produk"
+    },
+    "wishlist": {
+        "addWithoutLogin": "Silahkan masuk untuk menambahkan produk ini ke wishlist"
+    }
+}

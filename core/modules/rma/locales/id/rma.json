@@ -1,0 +1,63 @@
+{
+    "new": "Retur baru untuk order  ",
+    "product": "Produk untuk di retur",
+    "selectAll": "Pilih semua",
+    "deselectAll" : "Hapus semua",
+    "history": "Retur Saya",
+    "form": {
+        "submit": "Kirim permintaan",
+        "addSuccess": "Permintaan retur telah berhasil di kirim",
+        "addFailed": "Permintaan retur gagal di kirim",
+        "updateSuccess": "Perbarui retur telah berhasil di kirim",
+        "updateFailed": "Perbarui retur gagal di kirim",
+        "required": "Field ini tidak boleh kosong",
+        "itemNull": "Item pesanan harus di pilih minimal 1 item produk",
+        "label": {
+            "resolution": "Solusi",
+            "condition" : "Kondisi",
+            "message": "Pesan",
+            "tickSelect": "Centang untuk memilih",
+            "reason": "Alasan"
+        },
+        "placeholder": {
+            "message": "Tulis pesan disini untuk manager",
+            "uploadFile": "Tipe file yang di izinkan : zip, rar, jpg, jpeg, png, gif, pdf, doc, docx, xls, xlsx"
+        },
+        "table": {
+            "orderId": "ID Order",
+            "returnId" : "ID Retur",
+            "products": "Produk",
+            "createdAt": "Dibuat pada",
+            "updatedAt": "Diupdate pada",
+            "view": "Lihat detail",
+            "status": "Status",
+            "actions": "Aksi"
+        },
+
+        "empty": "Kamu tidah mempunyai retur produk",
+        "view": {
+            "label": "Mengelola permintaan retur ",
+            "packageCondition": "Kondisi paket",
+            "orderDate": "Tanggal pemesanan",
+            "myAddress": "Alamat saya",
+            "updateButton": "Perbarui retur",
+            "cancelButton": "Batalkan retur",
+            "successUpdate": "Data retur berhasil di perbarui",
+            "failedUpdate": "Retur gagal di perbarui",
+            "confirmShipping": "Konfirmasi pengiriman dan perbarui retur",
+            "cancelRequest": "Yakin akan membatalkan retur ini?",
+            "successCancel": "Retur berhasil di batalkan",
+            "failedCancel": "Pembatalan retur gagal",
+            "printLabel": "Cetak Label",
+            "confrimShipping": "Setelah mengklik 'Ya', \n Anda tidak akan dapat membatalkan retur atau membuat perubahan apa pun. Harap pastikan bahwa: <ol> <li> Anda telah memasukkan Label retur di dalam paket </li> <li> Anda telah mengirim paket ke departemen retur </li> </ol>"
+
+        },
+        "otherRequestRma": "Retur lain untuk pesanan ini",
+        "noItemReturn": "Tidak ada produk untuk diretur",
+        "error": {
+            "notFound" : "Kontent Data tidak di temukan",
+            "fetch": "Kesalahan saat mengambil data atau koneksi, coba lagi nanti"
+        },
+        "loadMore": "Muat lainnya"
+    }
+}

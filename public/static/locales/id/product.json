@@ -1,0 +1,42 @@
+{
+    "addToCart" : "Tambahkan ke keranjang",
+    "goToProduct": "Pergi ke product",
+    "recomendedTitle" : "Di rekomendasikan untuk Anda",
+    "review" : "Ulasan",
+    "colorOption" : "Pilihan warna",
+    "customerReview" : "Ulasan pelanggan",
+    "writeReview" : "Beri ulasan",
+    "moreReview" : "Lihat ulasan lainnya",
+    "viewGuide" : "View site guide",
+    "shareTitle" : "Bagikan",
+    "title" : "Title",
+    "nickname" : "Nama panggilan",
+    "submitReview" : "Kirim review" ,
+    "rate" : "Rating",
+    "upsellTitle": "Mungkin Anda suka",
+    "validate": {
+        "nickname": "Nickname tidak boleh kosong",
+        "rating": "Rating tidak boleh kosong",
+        "title": "Title tidak boleh kosong",
+        "detail": "Detail tidak boleh kosong",        
+        "fieldRequired": "Field ini harus di isi",        
+        "maxCharacters": "Maksimal $ karakter"
+    },
+    "customizableOptions": {
+        "file": {
+            "extentionAccept": "Ekstensi file yang cocok: ",
+            "maxImageWidth": "Maksimal panjang gambar: ",
+            "maxImageHeight": "Maksimal lebar gambar: "
+        }
+    },
+    "addRateSuccess": "Terima kasih atas ulasannya.",
+    "addRateFailed": "Gagal mengirim ulasan",
+    "failedQtyZero": "silahkan tambahan minimal 1 item produk",
+    "successAddCart": "Produk telah ditambahkan ke keranjang",
+    "failedAddCart": "Gagal menambahkan produk ke keranjang",
+    "emptyProductSearchResult": "Kami tidak dapat menemukan produk yang sesuai dengan pilihan.",
+    "productNotAvailable": "Sekarang kami belum support untuk tipe produk ini",
+    "customizeAdd": "Sesuaikan dan Tambahkan ke Keranjang",
+    "yourCustomization": "Pilihan Kamu",
+    "quantity": "Jumlah"
+}

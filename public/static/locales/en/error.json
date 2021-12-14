@@ -1,0 +1,17 @@
+{
+    "400": {
+        "title": "Bad Request"
+    },
+    "404": {
+        "title": "This page could not be found"
+    },
+    "405": {
+        "title": "Method Not Allowed"
+    },
+    "500": {
+        "title": "Internal Server Error"
+    },
+    "actions": {
+        "back": "Back"
+    }
+}

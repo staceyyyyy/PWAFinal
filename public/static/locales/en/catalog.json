@@ -1,0 +1,24 @@
+{
+    "emptyProductSearchResult": "We can't find products matching the selection.",
+    "title": {
+        "color": "Color",
+        "size": "Size",
+        "shortFilter": "Sort & Filter",
+        "short": "Sort by",
+        "search": "Search ...",
+        "brand": "Brand",
+        "category": "Category",
+        "searchResult": "Search result"
+    },
+    "button": {
+        "save": "Save",
+        "clear": "Clear"
+    },
+    "product": {
+        "title_product": "Name product",
+        "name": "Product"
+    },
+    "wishlist": {
+        "addWithoutLogin": "Please login to add this item to your wishlist"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "pageTitle": "Create new account",
+    "title": "Register",
+    "button": "Create an account",
+    "subscribe": "Sign up for newsletter",
+    "isWhatsapp": "Phone number is registered in whatsapp",
+    "success": "Registration is success",
+    "failed": "Registration failed",
+    "openEmail": "A confirmation form has been sent to your email. Proceed to your email to continue."
+}

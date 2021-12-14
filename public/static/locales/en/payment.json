@@ -1,0 +1,20 @@
+{
+    "confirmPayment": {
+        "label": "Confirm Payment",
+        "form": {
+            "orderNumber": "Order Number",
+            "bankName": "bank Name",
+            "bankAccountNumber": "Your Bank Account Number",
+            "bankAccountName": "Your Bank Account Name",
+            "amountTranfer": "Amount Tranferred",
+            "tranferDate": "Tranfer Date",
+            "file": "Upload Receipt Image",
+            "labelFile": "*jpg/jpeg/png/gif file less than 2MB",
+            "button": "confirm payment",
+            "validation": "Field is required",
+            "validNumber": "This field must be a positif number"
+        },
+        "confirmSuccess": "Payment confirmation has been sent successfully",
+        "confirmFailed": "Failed on sending payment confirmation"
+    }
+}

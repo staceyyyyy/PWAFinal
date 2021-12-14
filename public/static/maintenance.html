@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>Maintenance</title>
+        <style>
+            body {
+                font-family: Montserrat;
+                display: block;
+                left: 0;
+                margin: 0 auto;
+            }
+            .error-container {
+                min-height: 100vh;
+                width: 100vw;
+                background: #632b87;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                position: relative;
+            }
+            .img-logo {
+                width: 200px;
+                margin-bottom: 50px;
+            }
+            .img-center {
+                margin-bottom: 80px;
+                width: 500px;
+                height: auto;
+            }
+            .error-description {
+                height: fit-content;
+                text-align: center;
+                margin: 0 auto;
+                color: #fff;
+                font-size: 26px;
+            }
+            p {
+                margin: 10px 0;
+            }
+            @media only screen and (max-width: 600px) {
+                .img-logo {
+                    max-width: 100px;
+                }
+                .img-center {
+                    width: 250px;
+                    height: auto;
+                }
+                p {
+                    font-size: 12px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="error-container">
+            <img class="img-logo" src="/assets/img/logo_white.png" />
+            <img class="img-center" src="/assets/img/construction.png" />
+            <div class="error-description">
+                <p>We're to make our website better than over.</p>
+                <p>Check back in a bit. we'll see you soon.</p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,154 @@
+{
+    "variant": "Varian",
+    "home": {
+        "logoName": "LOGO"
+    },
+    "product": {
+        "title_product": "Nama Produk",
+        "name": "Produk"
+    },
+    "search": {
+        "title": "Cari",
+        "mainTitle": "Koleksi terbaru",
+        "backTitle": "kembali ke produk",
+        "location": "Cari Lokasi"
+    },
+    "button": {
+        "edit": "Edit",
+        "save": "Simpan",
+        "saved": "Tersimpan",
+        "continueShopping": "Lanjut Berbelanja",
+        "cancel": "Batal",
+        "yes": "Ya",
+        "checkout": "Checkout",
+        "change": "Ubah",
+        "send": "kirim",
+        "manage": "Manage",
+        "addAddress": "Tambah Alamat",
+        "loadMore": "Lihat lagi",
+        "clear": "Bersihkan",
+        "verify": "Verifikasi",
+        "shop": "Beli Sekarang",
+        "sendOtp": "Kirim OTP",
+        "submit": "Kirimkan",
+        "viewAll": "Lihat Semua",
+        "goCheckout": "Checkout",
+        "viewandedit": "Lihat dan Ubah",
+        "allowCookies": "Ijinkan Cookie"
+    },
+    "cart": {
+        "myCart": "Cart Saya",
+        "cardTotal": "Cart Subtotal",
+        "deleteSuccess": "Hapus item cart berhasil",
+        "deleteFailed": "Hapus item cart gagal",
+        "updateSuccess": "Update item cart berhasil",
+        "updateFailed": "Update item cart gagal",
+        "emptyCart": "ANDA TIDAK MEMILIKI ITEM DI KERANJANG BELANJA ANDA.",
+        "oos": "Stok habis",
+        "cartError": "Ada kesalahan di keranjang anda, silahkan bersihkan dan ulangi kembali"
+    },
+    "subtotal": "Subtotal",
+    "price": {
+        "asLowAs": "Termurah"
+    },
+    "qty": "Jumlah",
+    "form": {
+        "firstName": "Nama Depan",
+        "lastName": "Nama Belakang",
+        "phoneNumber": "Nomor Telepon",
+        "gender": "Jenis Kelamin",
+        "dob": "Tanggal Lahir",
+        "confirm": "Konfirmasi Password",
+        "currentPasword": "Password Lama",
+        "state": "Bagian / Provinsi",
+        "region": "Negara",
+        "city": "Kota",
+        "country": "Negara",
+        "street": "Alamat Jalan",
+        "postal": "Kode Pos",
+        "select": "Pilih Salah Satu"
+    },
+    "title": {
+        "qty": "Jumlah",
+        "color": "Warna",
+        "size": "Ukuran",
+        "shortFilter": "Urutan & Filter",
+        "short": "Urutkan dari",
+        "search": "Pencarian ...",
+        "brand": "Brand",
+        "category": "Kategory",
+        "summary": "Ringkasan",
+        "price": "Harga",
+        "shortQty": "Jml",
+        "action": "Aksi",
+        "extraFee": "Biaya Tambahan",
+        "relatedProduct": "Relasi Produk",
+        "sale": "Diskon",
+        "new": "Baru",
+        "free": "Free"
+    },
+    "error": {
+        "notFound": "Data tidak di temukan",
+        "fileReject": "Tidak dapat mengupload file harus ber type ",
+        "fetchError": "Terjadi kesalahan. Silakan coba lagi nanti"
+    },
+    "fileUpload": {
+        "reject": "Tidak dapat mengupload, file harus ber type  ",
+        "dragActive": "Taruh file kesini ...",
+        "dragNonActive": "Tarik dan taruh file kesini, atau klik untuk pilih file"
+    },
+    "menu": {
+        "confirmpayment": "Konfirmasi Pembayaran",
+        "trackingorder": "Lacak Pesanan",
+        "sign": "Masuk",
+        "register": "Buat Akun",
+        "or": "Atau",
+        "notification": "Notifikasi",
+        "myaccount": "Akun Saya",
+        "mywishlist": "Daftar Saya",
+        "signout": "keluar",
+        "currency": "Mata Uang",
+        "loading": "Menunggu",
+        "changeto": "Ganti ke",
+        "setting": "Pengaturan"
+    },
+    "header": {
+        "welcome": "Selamat Datang!",
+        "hi": "Hai, $!"
+    },
+    "message": {
+        "feedSuccess": "Produk berhasil di tambahkan ke wishlist",
+        "feedFailed": "Tambah wishlist gagal",
+        "restrictionCookies": "Kami menggunakan cookie untuk membuat pengalaman Anda lebih baik. Untuk mematuhi arahan e-Privacy yang baru, kami perlu meminta persetujuan Anda untuk menyetel cookie. Pelajari lebih lanjut."
+    },
+    "newsletter": {
+        "title": "DAFTAR NEWSLETTER",
+        "placeholder": "Masukkan alamat email Anda",
+        "buttonLabel": "Langganan",
+        "firstname": "Masukkan nama depan anda",
+        "lastname": "Masukkan nama belakang anda"
+    },
+    "recentlyView": {
+        "title" : "Baru Saja Dilihat"
+    },
+    "productCompare": {
+        "title": "Product Compare",
+        "successCompare" : "Produk berhasil di tambahkan",
+        "failedCompare" : "Produk gagal ditambahkan",
+        "existProduct" : "Produk sudah ada di keranjang compare",
+        "emptyCompare" : "Daftar perbandingan Anda kosong",
+        "successRemove": "Product compare berhasil dihapus",
+        "failedRemove": "Product compare gagal dihapus",
+        "label": {
+            "sku": "sku",
+            "description": "deskripsi",
+            "shortDescription": "Deskripsi Singkat",
+            "brand": "Merek"
+        }
+    },
+    "twitter": {
+        "follow": "Ikuti",
+        "tweetTo": "Tweet ke",
+        "tweetBy": "Tweet oleh"
+    },
+}

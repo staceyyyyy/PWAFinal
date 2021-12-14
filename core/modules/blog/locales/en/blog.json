@@ -1,0 +1,12 @@
+{
+    "title": "Blog",
+    "error": {
+        "notFound": "Content data not found",
+        "fetch": "Error during fetch data or connection, try again later"
+    },
+    "loadMore": "Load more",
+    "category": "Categories",
+    "readMore": "Read more",
+    "share": "Share",
+    "relatedProducts": "related products"
+}

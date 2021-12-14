@@ -1,0 +1,59 @@
+{
+    "title" : "My Order",
+    "order" : "Order",
+    "notFound": "Order not found",
+    "shippedTo": "Shipped to",
+    "pickupAt": "Pickup at",
+    "remaining": "Remaining Downloads",
+    "pickupBy": "Pickup by",
+    "shippingMethod": "Shipping method",
+    "paymentMethod": "Payment method",
+    "shipping": "Shipping & Handling",
+    "discount": "Discount",
+    "date": "Date",
+    "totalItems": "Total items",
+    "paymentDate": "Payment date",
+    "credit": "Store credit",
+    "giftcard": "Gift card",
+    "reorder": "Reorder",
+    "return": "Request return",
+    "print": "Print",
+    "newReturn": "New return for order ",
+    "productReturn": "Products to return",
+    "selectAll": "Select all",
+    "deselectAll" : "Deselect all",
+    "formReturn": {
+        "submit": "Submit request",
+        "label": {
+            "resolution": "Resolution",
+            "condition" : "Condition",
+            "message": "Message",
+            "tickSelect": "Tick checkbox to select.",
+            "reason": "Reason"
+        },
+        "placeholder": {
+            "message": "Type here to add a message to manager",
+            "uploadFile": "The following file types are allowed: zip, rar, jpg, jpeg, png, gif, pdf, doc, docx, xls, xlsx"
+        }
+    },
+    "trackingOrder": "Track order",
+    "orderId": "Order number",
+    "trackingInformation": "Tracking information",
+    "orderStatus": "Order status",
+    "status": "Status",
+    "action": "Action",
+    "orderTotal": "Order total",
+    "orderNotFound": "Sorry, order number is not valid",
+    "smReturn": "Return",
+    "view": "View Order",
+    "billingAddress": "Billing address",
+    "orderInfo": "Order information",
+    "orderItem": "Items order",
+    "labelStatus": {
+        "pending": "Waiting for confirmation",
+        "processing": "Processing",
+        "shipping": "Shipping",
+        "complete": "Order complete",
+        "canceled": "Order cancel"
+    }
+}

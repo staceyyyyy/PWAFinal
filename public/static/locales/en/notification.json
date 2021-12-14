@@ -1,0 +1,11 @@
+{
+  "notification": "Notification",
+  "empty" : "You don't have any notifications",
+  "not_found" : "Data not found",
+  "notificationList": {
+    "pageTitle" : "Notification list"
+  },
+  "notificationData": {
+    "pageTitle" : "Notification data"
+  }
+}

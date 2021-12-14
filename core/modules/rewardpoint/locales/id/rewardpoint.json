@@ -1,0 +1,14 @@
+{
+  "title": "Poin reward",  
+  "balanceTitle": "Sisa poin Anda adalah ",
+  "canbeTitle": "Total yang dapat di tukar saat checkout adalah ",
+  "learnMore": "Untuk mempelajari tentang poin reward. $ Klik disini",
+  "transactionId" : "ID Transaksi",
+  "balance": "Sisa saldo",
+  "comment": "Komentar",
+  "expired" : "Masa berlaku",
+  "point": "Poin",
+  "transactionDate": "Tanggal transaksi",
+  "emptyMessage" : "Anda tidak mempunyai transaksi",
+  "myPoint": "Poin saya"
+}

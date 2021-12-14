@@ -1,0 +1,56 @@
+{
+    "new": "pengembalian baru untuk order  ",
+    "product": "Produk untuk kembalikan",
+    "selectAll": "Pilih semua",
+    "deselectAll" : "Hapus semua",
+    "history": "Retur Saya",
+    "form": {
+        "submit": "Kirim Permintaan",
+        "addSuccess": "Permintaan RMA telah berhasil di kirim",
+        "addFailed": "Permintaan RMA gagal di kirim",
+        "updateSuccess": "Update RMA telah berhasil di kirim",
+        "updateFailed": "Update RMA gagal di kirim",
+        "required": "This field is required",
+        "itemNull": "Item pesanan harus di pilih minimal 1 item produk",
+        "label": {
+            "resolution": "Solusi",
+            "condition" : "Kondisi",
+            "message": "Pesan",
+            "tickSelect": "Centang untuk memilih",
+            "reason": "Alasan"
+        },
+        "placeholder": {
+            "message": "Tulis pesan disini untuk manager",
+            "uploadFile": "Type file yang di bolehkan : zip, rar, jpg, jpeg, png, gif, pdf, doc, docx, xls, xlsx"
+        },
+        "table": {
+            "orderId": "ID Order",
+            "returnId" : "ID Return",
+            "products": "Produk",
+            "createdAt": "Dibuat pada",
+            "updatedAt": "Diupdate pada",
+            "view": "Lihat Detail"
+        },
+
+        "empty": "Kamu tidah mempunyai permintaan RMA",
+        "view": {
+            "label": "Mengelola permintaan RMA ",
+            "packageCondition": "Kondisi Paket",
+            "orderDate": "Tanggal Pemesanan",
+            "myAddress": "Alamat Saya",
+            "updateButton": "Perbarui Retur",
+            "cancelButton": "Batalkan Retur",
+            "successUpdate": "Data retur berhasil di perbarui",
+            "failedUpdate": "Retur gagal di perbarui",
+            "confirmShipping": "Konfirmasi pengiriman dan perbarui retur",
+            "cancelRequest": "Yakin akan membatalkan retur ini?",
+            "successCancel": "Retur berhasil di Batalkan",
+            "failedCancel": "Pembatalan retur gagal",
+            "printLabel": "Cetak Label",
+            "confrimShipping": "Setelah mengklik 'Ya', \n Anda tidak akan dapat membatalkan RMA atau membuat perubahan apa pun. Harap pastikan bahwa: <ol> <li> Anda telah memasukkan Label RMA di dalam paket </li> <li> Anda telah mengirim paket ke departemen RMA </li> </ol>"
+
+        },
+        "otherRequestRma": "Retur lain untuk pesanan ini",
+        "noItemReturn": "Tidak ada produk untuk diretur"
+    }
+}

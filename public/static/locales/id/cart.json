@@ -1,0 +1,25 @@
+{
+    "pageTitle": "Keranjang belanja",
+    "counter": {
+        "text": "item di keranjang"
+    },
+    "crossell": {
+        "title": "Rekomendasi untuk Anda"
+    },
+    "empty": {
+        "text": "Keranjang belanja kosong"
+    },
+    "button": {
+        "saveEdit": "Simpan",
+        "checkout": "Checkout"
+    },
+    "confirmDelete": "Apakah anda yakin menghapus item ini?",
+    "deleteSuccess": "Hapus item cart berhasil",
+    "deleteFailed": "Hapus item cart gagal",
+    "updateSuccess": "Update item cart berhasil",
+    "updateFailed": "Update item cart gagal",
+    "addWishlistSuccess": "Produk berhasil ditambahkan ke wishlist",
+    "addWishlistFailed": "Produk gagal ditambahkan ke wishlist",
+    "addWishlistWithoutLogin": "Silahkan masuk untuk menambahkan produk ini ke wishlist",
+    "oos": "Stok habis"
+}

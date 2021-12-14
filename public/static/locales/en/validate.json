@@ -1,0 +1,96 @@
+{
+    "email": {
+        "required": "Email is required",
+        "wrong": "Email is not valid"
+    },
+    "phoneNumber": {
+        "required": "Phone number is required",
+        "wrong": "Phone number is not valid"
+    },
+    "password": {
+        "required": "Password is required",
+        "wrong": "Password is not valid"
+    },
+    "firstName": {
+        "required": "First name is required"
+    },
+    "fullName": {
+        "required": "Full Name is required"
+    },
+    "message": {
+        "required": "Message is required"
+    },
+    "lastName": {
+        "required": "Last name is required"
+    },
+    "confirmPassword": {
+        "required": "Confirm password is required",
+        "wrong": "Confirm password is not match"
+    },
+    "telephone": {
+        "required": "Telephone is required"
+    },
+    "whatsappNumber": {
+        "required": "Whatsapp Number is required",
+        "wrong": "Whatssapp Number is not valid"
+    },
+    "emailPhone": "Email or phone number is required",
+    "tos": {
+        "required": "Please aggree the terms of use"
+    },
+    "street": {
+        "required": "Street address is required",
+        "wrong": "Street address is not valid"
+    },
+    "postal": {
+        "required": "Postal code is required",
+        "wrong": "Postal code is not valid"
+    },
+    "country": {
+        "required": "Country is required"
+    },
+    "state": {
+        "required": "State/province is required"
+    },
+    "city": {
+        "required": "City is required"
+    },
+    "district": {
+        "required": "District/kecamatan is required"
+    },
+    "maps": {
+        "required": "Maps location is required"
+    },
+    "guest": {
+        "wrong": "You must login first"
+    },
+    "required": "is required",
+    "captcha": {
+        "required": "Captcha is required",
+        "wrong": "Captcha is not valid"
+    },
+    "gender": {
+        "required": "Gender is required"
+    },
+    "dob": {
+        "required": "Date of Birth is required"
+    },
+    "to": "To",
+    "from": "From",
+    "recipientName": "Recipient Name",
+    "recipientEmail": "Recipient Email",
+    "senderName": "Sender Name",
+    "senderEmail": "Sender Email",
+    "emailTemplate": "Email Template",
+    "amount": "Amount",
+    "notValid": "is not valid",
+    "greaterThanOrEqual": "must be greater than or equal to",
+    "lessThanOrEqual": "must be less than or equal to",
+    "value": "Value",
+    "code": "Code",
+    "chooseAmount": "Choose an Amount",
+    "customAmount": "Enter Custom Amount",
+    "selectDesign": "Select a Design",
+    "composeEmail": "Compose Your Email",
+    "deliveryDate": "Delivery Date"
+}

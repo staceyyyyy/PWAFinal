@@ -1,0 +1,54 @@
+{
+    "new": "new return for order ",
+    "product": "Products to return",
+    "selectAll": "Select All",
+    "deselectAll" : "Deselect All",
+    "history" : "My Return",
+    "form": {
+        "submit": "Submit Request",
+        "addSuccess": "New Request Rma has been sent successfully",
+        "addFailed": "New Request Rma failed to sent",
+        "updateSuccess": "Update Rma has been sent successfully",
+        "updateFailed": "Update Rma failed to sent",
+        "required": "This field is required",
+        "itemNull": "Item order must be select minimun 1 item product",
+        "label": {
+            "resolution": "Resolution",
+            "condition" : "Condition",
+            "message": "Message",
+            "tickSelect": "Tick checkbox to select.",
+            "reason": "Reason"
+        },
+        "placeholder": {
+            "message": "Type here to add a message to manager",
+            "uploadFile": "The following file types are allowed: zip, rar, jpg, jpeg, png, gif, pdf, doc, docx, xls, xlsx"
+        }
+    },
+    "table": {
+        "orderId": "Order ID",
+        "returnId" : "Return ID",
+        "products": "Product(s)",
+        "createdAt": "Crated At",
+        "updatedAt": "Updated At",
+        "view": "View Detail"
+    },
+    "empty": "Your not have returns request",
+    "view": {
+        "label": "Manage RMA request ",
+        "packageCondition": "Package Condition",
+        "orderDate": "Order Date",
+        "myAddress": "My Address",
+        "updateButton": "Update Request",
+        "cancelButton": "Cancel Request",
+        "successUpdate": "Return has beed updated succesfully",
+        "failedUpdate": "Return update failed",
+        "confirmShipping": "Confirm Shipping and Update Request",
+        "cancelRequest": "Are you sure want to cancel this request?",
+        "successCancel": "Request has been canceled successfully",
+        "failedCancel": "Failed on canceling request",
+        "printLabel": "Print Label",
+        "confrimShipping": "Having clicked 'Yes', \n you won't be able to cancel RMA or make any changes. Please ensure that: <ol> <li>You have included the RMA Label inside the package </li> <li>You have sent the package to the RMA department</li> </ol> "
+    },
+    "otherRequestRma": "Other return request for this product",
+    "noItemReturn": "No items to return"
+}

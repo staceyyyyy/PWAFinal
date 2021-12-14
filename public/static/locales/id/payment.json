@@ -1,0 +1,21 @@
+{
+    "confirmPayment": {
+        "label": "Konfirmasi Pembayaran",
+        "form": {
+            "orderNumber": "Nomor Pemesanan",
+            "bankName": "Nama Bank",
+            "bankAccountNumber": "Nomor Rekening Bank",
+            "bankAccountName": "Nama Pemilik Rekeing Bank",
+            "amountTranfer": "Jumlah Tranfer",
+            "tranferDate": "Tanggal Tranfer",
+            "file": "Upload Bukti Bayar",
+            "labelFile": "*jpg/jpeg/png/gif file maksimal 2MB",
+            "button": "Konfirmasi Pembayaran",
+            "validation": "Field tidak boleh kosong",
+            "validNumber": "Field ini harus berisi positif nomor"
+        },
+
+        "confirmSuccess": "Konfirmasi pembayaran berhasil di kirim",
+        "confirmFailed": "Konfirmasi pembayaran gagal"
+    }
+}

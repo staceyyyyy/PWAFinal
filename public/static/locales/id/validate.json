@@ -1,0 +1,96 @@
+{
+    "email": {
+        "required": "Email tidak boleh kosong",
+        "wrong": "Email tidak sesuai"
+    },
+    "phoneNumber": {
+        "required": "Nomor telepon tidak boleh kosong",
+        "wrong": "Nomor telepon tidak sesuai"
+    },
+    "password": {
+        "required": "Password tidak boleh kosong",
+        "wrong": "Password tidak sesuai"
+    },
+    "firstName": {
+        "required": "Nama depan tidak boleh kosong"
+    },
+    "fullName": {
+        "required": "Nama tidak boleh kosong"
+    },
+    "message": {
+        "required": "Pesan tidak boleh kosong"
+    },
+    "lastName": {
+        "required": "Nama belakang tidak boleh kosong"
+    },
+    "confirmPassword": {
+        "required": "Konfirmasi password tidak boleh kosong",
+        "wrong": "Konfirmasi password tidak sama"
+    },
+    "telephone": {
+        "required": "Telepon tidak boleh kosong"
+    },
+    "whatsappNumber": {
+        "required": "Nomor whatsapp tidak boleh kosong",
+        "wrong": "Nomor whatsapp tidak sesuai"
+    },
+    "emailPhone": "Email atau nomor telepon tidak boleh kosong",
+    "tos": {
+        "required": "Setujui kebijakan kami"
+    },
+    "street": {
+        "required": "Alamat jalan tidak boleh kosong",
+        "wrong": "Alamat belum sesuai"
+    },
+    "postal": {
+        "required": "Code post tidak boleh kosong",
+        "wrong": "Code pos belum sesuai"
+    },
+    "country": {
+        "required": "Country tidak boleh kosong"
+    },
+    "state": {
+        "required": "state/ provinsi tidak boleh kosong"
+    },
+    "city": {
+        "required": "Kota tidak boleh kosong"
+    },
+    "district": {
+        "required": "District/kecamatan tidak boleh kosong"
+    },
+    "maps": {
+        "required": "Lokasi maps tidak boleh kosong"
+    },
+    "guest": {
+        "wrong": "Anda harus login terlebih dahulu"
+    },
+    "required": "tidak boleh kosong",
+    "captcha": {
+        "required": "Captcha tidak boleh kosong",
+        "wrong": "Captcha tidak sesuai"
+    },
+    "gender": {
+        "required": "Jenis kelamin tidak boleh kosong"
+    },
+    "dob": {
+        "required": "Tanggal lahir tidak boleh kosong"
+    },
+    "to": "Dari",
+    "from": "Ke",
+    "recipientName": "Nama Penerima",
+    "recipientEmail": "Email Penerima",
+    "senderName": "Nama Pengirim",
+    "senderEmail": "Email Pengirim",
+    "emailTemplate": "Email Template",
+    "amount": "Jumlah",
+    "notValid": "tidak valid",
+    "greaterThanOrEqual": "harus lebih dari atau sama dengan",
+    "lessThanOrEqual": "harus kurang dari atau sama dengan",
+    "value": "Nilai",
+    "code": "Kode",
+    "chooseAmount": "Pilih Jumlah",
+    "customAmount": "Masukkan Jumlah Lainnya",
+    "selectDesign": "Pilih Desain",
+    "composeEmail": "Susun Email",
+    "deliveryDate": "Tanggal Pengiriman"
+}

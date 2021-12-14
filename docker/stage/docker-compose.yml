@@ -1,0 +1,12 @@
+version: '3'
+services:
+    frontend_stage:
+        build:
+            context: ./ /../../../
+            dockerfile: ./docker/stage/Dockerfile
+        environment:
+            - PORT=3000
+            - NODE_ENV=production
+            - APP_ENV=stage
+        ports:
+            - 3000:3000

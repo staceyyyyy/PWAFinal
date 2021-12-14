@@ -1,0 +1,25 @@
+steps:
+  
+  - block: "Request build docker image"
+
+  - label: ":docker: build docker"
+    command:
+      - "sh .buildkite/build.sh getswift-pwa-checkout"
+    agents:
+      - "icube-staging=true"
+    
+  - block: "deploy staging"
+
+  - label: "Release to staging"
+    command:
+      - "sh .buildkite/deploy.sh iii-nonprod getswift-pwa-checkout"
+    agents:
+      - "icube-staging=true"
+  
+  - block: "Release to production"
+
+  - label: ":rocket: Deploy iii-prod"
+    command:
+      - "sh .buildkite/deploy.sh iii-prod getswift-pwa-checkout"
+    agents:
+      - "iii-prod=true"

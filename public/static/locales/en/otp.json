@@ -1,0 +1,19 @@
+{
+    "pageTitle": "Verification Phone Number",
+    "title": "Verification",
+    "label": "Input your code",
+    "button": "Veirify OTP",
+    "sendOtp": "Send OTP",
+    "wait": "Verification code has been send. Please wait ",
+    "resend": "seconds, to resend verification code.",
+    "sendTimes": "Otp has been send",
+    "time": "times",
+    "note": "Note : Max 3 times to send verification code",
+    "choseMethod": "Choose one of method(s) below to get verification code.",
+    "sms": "Via sms to ",
+    "maxSend": "Your have maximum request otp",
+    "sendSuccess": "Otp success sending",
+    "sendFailed": "Otp failed to send",
+    "valid": "Otp is valid",
+    "invalid": "Otp is in valid"
+}

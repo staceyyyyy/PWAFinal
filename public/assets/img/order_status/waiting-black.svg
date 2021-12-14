@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="26" viewBox="0 0 20 26">
+    <g transform="translate(-15 -12)">
+        <path d="M31.5,37h-13V30.2a2.693,2.693,0,0,1,1.4-2.4L25,25l-5.1-2.9a2.693,2.693,0,0,1-1.4-2.4V13h13v6.8a2.693,2.693,0,0,1-1.4,2.4L25,25l5.1,2.9a2.693,2.693,0,0,1,1.4,2.4Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line x2="18" transform="translate(16 13)" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+        <line x2="18" transform="translate(16 37)" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    </g>
+</svg>
